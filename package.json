@@ -1,0 +1,12 @@
+{
+  "name": "CryptoJS",
+  "version": "3.1.2",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crissdev/CryptoJS.git"
+  },
+  "homepage": "https://github.com/crissdev/CryptoJS"
+}
